@@ -1,3 +1,4 @@
 <?php 
 
-new Router();
+$router = new Router();
+$router->init();
